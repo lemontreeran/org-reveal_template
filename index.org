@@ -1,0 +1,157 @@
+#+Email: bochenski@gmail.com
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:nil num:nil
+#+OPTIONS: toc:1
+#+REVEAL_EXTRA_CSS: ./local.css
+
+#+REVEAL_HLEVEL: 3
+#+REVEAL_THEME: sky
+#+REVEAL_TRANS: concave
+#+OPTIONS: num:nil
+
+
+* Responsibilities of a Restaurant Manager
+** Business activities:
+#+ATTR_REVEAL: :frag (appear)
+ - Taking responsibility for the /business performance/ of the restaurant.
+ - Analyzing and planning restaurant sales levels and profitability.
+ - Organizing marketing activities, such as promotional events and discount schemes.
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (appear)
+ - Preparing reports  the end of the shift/week, including staff control, food control and sales.
+ - Creating and executing plans for department sales, profit and staff development.
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (appear)
+ - Setting budgets and/or agreeing them with senior management.
+ - Planning and coordinating menus.
+** Front-of-house:
+#+ATTR_REVEAL: :frag (appear)
+- Coordinating the entire operation of the restaurant during scheduled shifts.
+- Managing staff and providing them with feedback.
+- Responding to customer complaints.
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (appear)
+- Meeting and greeting customers and organising table reservations.
+- Advising customers on menu and wine choice.
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (appear)
+- Recruiting, training and motivating staff.
+- Organizing and supervising the shifts of kitchen, waiting and cleaning staff.
+** Housekeeping:
+#+ATTR_REVEAL: :frag (appear)
+- Maintaining high standards of quality /control/, hygiene, and health and safety.
+- Checking stock levels and ordering supplies.
+- Helping in any area of the restaurant when circumstances dictate.
+  
+* Quality Control
+
+** What is quality control?
+
+** Areas or restaurant quality control
+
+*** 
+:PROPERTIES:
+:reveal_background: ./img/safety1.jpg
+:END:
+#+REVEAL_HTML: <h3 class="border">Great value and food safety</h3>
+#+BEGIN_NOTES
+If the customers found out that the foods are not prepared safely, this will have a negative impact to the reputation of the restaurant or a ground for lawsuit if not settled at once.
+#+END_NOTES
+*** 
+:PROPERTIES:
+:reveal_background: ./img/fprod.jpg
+:END:
+#+REVEAL_HTML: <h3 class="border">Food Production and Services</h3>
+**** Food Production
+#+ATTR_REVEAL: :frag (appear)
+- the processing of food should maintain its freshness
+- food must be served in a presentable manner
+*** 
+:PROPERTIES:
+:reveal_background: ./img/clean.jpg
+:END:
+#+REVEAL_HTML: <h3 class="border">House cleanliness</h3>
+**** House cleanliness
+#+ATTR_REVEAL: :frag (appear)
+- the area of the kitchen is referred as the "Back of House"
+- "Front of House" is the dining area where the foods are served and eaten by the customers
+*** 
+:PROPERTIES:
+:reveal_background: ./img/emp.jpg
+:END:
+
+#+REVEAL_HTML: <h3 class="border">Traning of employees</h>
+#+BEGIN_NOTES
+Chefs, waiters, and other service crews should undergo trainings to make certain that they can do the job properly and orderly.
+#+END_NOTES
+*** 
+:PROPERTIES:
+:reveal_background: ./img/staff.jpg
+:END:
+
+#+REVEAL_HTML: <h3 class="border">Staff management</h3>
+#+BEGIN_NOTES
+It is the obligation of the owner to keep the customers happy as well as the staffs of the restaurant.
+#+END_NOTES
+
+* Problems and Solutions
+
+** Problems
+#+ATTR_REVEAL: :frag t
+One problem is that ... *(sentence)*
+#+ATTR_REVEAL: :frag t
+One problem is ... *(noun)*
+
+** Solutions
+#+ATTR_REVEAL: :frag t
+One solution is to ... *(verb)*
+#+ATTR_REVEAL: :frag t
+We could *(verb)*
+#+ATTR_REVEAL: :frag t
+I think we should ... *(verb)*
+#+ATTR_REVEAL: :frag t
+I recommend that ... *(verb)*
+
+** Agreeing
+#+ATTR_REVEAL: :frag t
+I think it's a good idea.
+#+ATTR_REVEAL: :frag t
+I agree with __________ .
+
+** Disagree
+#+ATTR_REVEAL: :frag t
+It's a good idea but _________.
+#+ATTR_REVEAL: :frag t
+I disagree with _________, because ___________.
+#+ATTR_REVEAL: :frag t
+I am against it because ___________.
+#+ATTR_REVEAL: :frag t
+The problem with that is _______________.
+
+* Exercise
+
+** The Manager
+#+ATTR_REVEAL: :frag t
+You are the management staff of a large resort restaurant. Lately, you have had a lot of problems. You must discuss these problems with the other managers and then come up with solutions.
+The restaurant is on an island surrounded by beautiful beaches, coral reefs, and mountains. It seems like the perfect place to have a restaurant but . . . .
+
+*** Theft
+There is a lot of theft at the restaurant.  Someone is stealing food from the kitchen.
+
+*** Guests are bored
+Guests have complained that the restaurant reminds them a school canteen.
+
+*** Complaints about the food
+The guests have complained that the food tastes terrible. They also complained that the food is the same every night. Some vegetarians were very angry because every dinner has meat.
+
+*** There are few guests
+Very few people know about the restaurant. And the guests who do come say it is too expensive.
+
+*** Complaints about the staff
+Many customers say that the staff is rude and unhelpful.  The staff members argue with each other. Sometimes they swear at the managers.
+
+*** The hotel is difficult to get to
+The restaurant is located on a small soy no one heard of. There is no bus station nearby either, the restaurant can't be found on Google Maps.
+
+
