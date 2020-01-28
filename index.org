@@ -1,4 +1,5 @@
-#+Email: bochenski@gmail.com
+#+Email: lemontreeran@gmail.com
+
 
 #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
 #+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:nil num:nil
